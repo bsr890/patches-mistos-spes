@@ -5,7 +5,7 @@
     <remove-project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" /> -->
 
     <remove-project name="platform/hardware/st/nfc"/>
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_usb"/>
+    <remove-project name="android_vendor_qcom_opensource_usb"/>
 
 
     
