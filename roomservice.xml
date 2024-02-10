@@ -16,7 +16,7 @@
     <project revision="fourteen" remote="hub" name="PixelExperience-Devices/device_qcom_wlan.git" path="device/qcom/wlan" />
     <project revision="fourteen" remote="pe-lab" name="android/vendor-blobs/vendor_qcom_common.git" path="vendor/qcom/common" />
     <project revision="fourteen" remote="hub" name="TheMatheusDev/vendor_qcom_opensource_commonsys-intf_bluetooth.git" path="vendor/qcom/opensource/commonsys-intf/bluetooth" />
-    <project revision="fourteen" remote="hub" name="AOSPA/vendor_qcom_opensource_core-utils.git" path="vendor/qcom/opensource/core-utils" />
+    <project revision="uvite" remote="hub" name="AOSPA/android_vendor_qcom_opensource_core-utils.git" path="vendor/qcom/opensource/core-utils" />
     <project revision="fourteen" remote="hub" name="TheMatheusDev/vendor_qcom_opensource_commonsys_dpm.git" path="vendor/qcom/opensource/commonsys/dpm" />
     <project revision="uvite-bengal" remote="hub" name="TheMatheusDev/hardware_qcom-caf_bengal_audio.git" path="hardware/qcom-caf/bengal/audio" />
     <project revision="uvite-865" remote="hub" name="TheMatheusDev/hardware_qcom-caf_bengal_display.git" path="hardware/qcom-caf/bengal/display" />
@@ -29,8 +29,8 @@
     <project revision="fourteen-pixelos" remote="hub" name="bsr890/vendor_xiaomi_sm6225-common.git" path="vendor/xiaomi/sm6225-common" />
     <!--    <remove-project name="LineageOS/android_external_wpa_supplicant_8"/>
     <project revision="uvite" remote="hub" name="TheMatheusDev/external_wpa_supplicant_8" path="external/wpa_supplicant_8" /><-->
-    <project revision="fourteen" remote="hub" name="PixelExperience-Staging/hardware_st_nfc" path="hardware/st/nfc" />
-    <project revision="fourteen" remote="hub" name="PixelExperience-Staging/vendor_qcom_opensource_usb" path="vendor/qcom/opensource/usb" />
+    <project revision="uvite" remote="hub" name="AOSPA/android_hardware_st_nfc" path="hardware/st/nfc" />
+    <project revision="uvite" remote="hub" name="AOSPA/android_vendor_qcom-opensource_usb" path="vendor/qcom/opensource/usb" />
     <project revision="fourteen-pixelos" remote="hub" name="bleedingedgeandroid/device_xiaomi_sepolicy" path="device/xiaomi/sepolicy" />
 
 </manifest>
