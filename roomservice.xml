@@ -2,10 +2,11 @@
   <remote name="hub" fetch="https://github.com/" ></remote>
     <remote name="pe-lab" fetch="https://gitlab.pixelexperience.org/" ></remote>
 <!-- 
-    <remove-project name="LineageOS/android_vendor_qcom_opensource_usb"/>
     <remove-project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" /> -->
 
     <remove-project name="platform/hardware/st/nfc"/>
+    <remove-project name="LineageOS/android_vendor_qcom_opensource_usb"/>
+
 
     
     <project revision="fourteen" remote="hub" name="PixelExperience-Devices/device_qcom_common.git" path="device/qcom/common" />
